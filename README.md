@@ -1,6 +1,7 @@
 # Theft_detection_UCF_crime_dataset
 
 This project is mainly a work done for a Fiverr client, that was of course well noticed of me being public with its content. This repository is still being updated.
+A PowerPoint presentation could be found, explaining the work done in the project.
 
 ## Dataset
 The UCF-Crime dataset is a large-scale dataset of 128 hours of videos. It consists of 1900 long and untrimmed real-world surveillance videos, with 13 realistic anomalies including Abuse, Arrest, Arson, Assault, Road Accident, Burglary, Explosion, Fighting, Robbery, Shooting, Stealing, Shoplifting, and Vandalism. These anomalies are selected because they have a significant impact on public safety.
